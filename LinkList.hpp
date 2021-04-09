@@ -8,6 +8,8 @@ struct Node {
 
 class LinkList {
 private:
+    Node* head;
+    Node* list;
 public:
 };
 
